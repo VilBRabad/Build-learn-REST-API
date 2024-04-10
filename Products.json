@@ -1,0 +1,46 @@
+[
+    {
+        "name": "iphone",
+        "price": 1155,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "watch",
+        "price": 403,
+        "company": "apple"
+    },
+    {
+        "name": "watch10",
+        "price": 305,
+        "company": "apple"
+    },
+    {
+        "name": "s20",
+        "price": 1000,
+        "company": "samsung"
+    },
+    {
+        "name": "s23",
+        "price": 1100,
+        "featured": true,
+        "company": "samsung"
+    },
+    {
+        "name": "Ultra pro max",
+        "price": 200,
+        "company": "mi"
+    },
+    {
+        "name": "x12",
+        "price": 300,
+        "featured": true,
+        "company": "mi"
+    },
+    {
+        "name": "dell 12px",
+        "price": 500,
+        "featured": true,
+        "company": "dell"
+    }
+]
